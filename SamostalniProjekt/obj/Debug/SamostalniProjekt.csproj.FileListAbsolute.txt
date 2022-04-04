@@ -1,0 +1,16 @@
+C:\DominikRpa\SamostalniProjekt\bin\Debug\SamostalniProjekt.exe.config
+C:\DominikRpa\SamostalniProjekt\bin\Debug\SamostalniProjekt.exe
+C:\DominikRpa\SamostalniProjekt\bin\Debug\SamostalniProjekt.pdb
+C:\DominikRpa\SamostalniProjekt\obj\Debug\SamostalniProjekt.csproj.AssemblyReference.cache
+C:\DominikRpa\SamostalniProjekt\obj\Debug\SamostalniProjekt.csproj.SuggestedBindingRedirects.cache
+C:\DominikRpa\SamostalniProjekt\obj\Debug\SamostalniProjekt.csproj.CoreCompileInputs.cache
+C:\DominikRpa\SamostalniProjekt\obj\Debug\SamostalniProjekt.exe
+C:\DominikRpa\SamostalniProjekt\obj\Debug\SamostalniProjekt.pdb
+C:\Users\rober\Desktop\Projekti\c#\SamostalniProjekt\SamostalniProjekt\bin\Debug\SamostalniProjekt.exe.config
+C:\Users\rober\Desktop\Projekti\c#\SamostalniProjekt\SamostalniProjekt\bin\Debug\SamostalniProjekt.exe
+C:\Users\rober\Desktop\Projekti\c#\SamostalniProjekt\SamostalniProjekt\bin\Debug\SamostalniProjekt.pdb
+C:\Users\rober\Desktop\Projekti\c#\SamostalniProjekt\SamostalniProjekt\obj\Debug\SamostalniProjekt.csproj.AssemblyReference.cache
+C:\Users\rober\Desktop\Projekti\c#\SamostalniProjekt\SamostalniProjekt\obj\Debug\SamostalniProjekt.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\Desktop\Projekti\c#\SamostalniProjekt\SamostalniProjekt\obj\Debug\SamostalniProjekt.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\Projekti\c#\SamostalniProjekt\SamostalniProjekt\obj\Debug\SamostalniProjekt.exe
+C:\Users\rober\Desktop\Projekti\c#\SamostalniProjekt\SamostalniProjekt\obj\Debug\SamostalniProjekt.pdb
